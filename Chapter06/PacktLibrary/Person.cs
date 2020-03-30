@@ -24,7 +24,6 @@ namespace Packt.Shared
       {
         Name = $"Baby of {p1.Name} and {p2.Name}"
       };
-
       p1.Children.Add(baby);
       p2.Children.Add(baby);
 

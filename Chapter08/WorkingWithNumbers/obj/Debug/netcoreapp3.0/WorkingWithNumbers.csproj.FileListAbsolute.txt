@@ -1,0 +1,11 @@
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/WorkingWithNumbers/bin/Debug/netcoreapp3.0/WorkingWithNumbers
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/WorkingWithNumbers/bin/Debug/netcoreapp3.0/WorkingWithNumbers.deps.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/WorkingWithNumbers/bin/Debug/netcoreapp3.0/WorkingWithNumbers.runtimeconfig.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/WorkingWithNumbers/bin/Debug/netcoreapp3.0/WorkingWithNumbers.runtimeconfig.dev.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/WorkingWithNumbers/bin/Debug/netcoreapp3.0/WorkingWithNumbers.dll
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/WorkingWithNumbers/bin/Debug/netcoreapp3.0/WorkingWithNumbers.pdb
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/WorkingWithNumbers/obj/Debug/netcoreapp3.0/WorkingWithNumbers.csprojAssemblyReference.cache
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/WorkingWithNumbers/obj/Debug/netcoreapp3.0/WorkingWithNumbers.AssemblyInfoInputs.cache
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/WorkingWithNumbers/obj/Debug/netcoreapp3.0/WorkingWithNumbers.AssemblyInfo.cs
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/WorkingWithNumbers/obj/Debug/netcoreapp3.0/WorkingWithNumbers.dll
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/WorkingWithNumbers/obj/Debug/netcoreapp3.0/WorkingWithNumbers.pdb

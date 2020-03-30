@@ -45,7 +45,7 @@ namespace PeopleApp
       harry.Poke();
       harry.Poke();
 
-      // Comparing objects when sorting
+      // // Comparing objects when sorting
 
       Person[] people =
       {

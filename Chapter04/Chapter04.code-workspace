@@ -18,5 +18,19 @@
 		{
 			"path": "CalculatorLibUnitTests"
 		}
-	]
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"connectionTimeout": 30,
+				"database": "ShelfApp.Dev",
+				"dialect": "MSSQL",
+				"name": "ShelfApp",
+				"password": "Passw0rd!",
+				"port": 1433,
+				"server": "localhost",
+				"username": "sa"
+			}
+		]
+	}
 }

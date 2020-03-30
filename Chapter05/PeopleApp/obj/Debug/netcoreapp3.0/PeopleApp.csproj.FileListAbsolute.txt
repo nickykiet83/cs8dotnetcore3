@@ -1,0 +1,14 @@
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter05/PeopleApp/bin/Debug/netcoreapp3.0/PeopleApp
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter05/PeopleApp/bin/Debug/netcoreapp3.0/PeopleApp.deps.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter05/PeopleApp/bin/Debug/netcoreapp3.0/PeopleApp.runtimeconfig.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter05/PeopleApp/bin/Debug/netcoreapp3.0/PeopleApp.runtimeconfig.dev.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter05/PeopleApp/bin/Debug/netcoreapp3.0/PeopleApp.dll
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter05/PeopleApp/bin/Debug/netcoreapp3.0/PeopleApp.pdb
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter05/PeopleApp/bin/Debug/netcoreapp3.0/PacktLibrary.dll
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter05/PeopleApp/bin/Debug/netcoreapp3.0/PacktLibrary.pdb
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter05/PeopleApp/obj/Debug/netcoreapp3.0/PeopleApp.csprojAssemblyReference.cache
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter05/PeopleApp/obj/Debug/netcoreapp3.0/PeopleApp.AssemblyInfoInputs.cache
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter05/PeopleApp/obj/Debug/netcoreapp3.0/PeopleApp.AssemblyInfo.cs
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter05/PeopleApp/obj/Debug/netcoreapp3.0/PeopleApp.csproj.CopyComplete
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter05/PeopleApp/obj/Debug/netcoreapp3.0/PeopleApp.dll
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter05/PeopleApp/obj/Debug/netcoreapp3.0/PeopleApp.pdb

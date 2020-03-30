@@ -188,8 +188,8 @@ namespace WorkingWithEFCore
 
     static void Main(string[] args)
     {
-      QueryingCategories();
-      // QueryingProducts();
+      // QueryingCategories();
+      QueryingProducts();
       // QueryingWithLike();
 
       // if (AddProduct(6, "Bob's Burgers", 500M))

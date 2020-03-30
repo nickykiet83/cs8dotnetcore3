@@ -24,6 +24,8 @@ namespace Variables
       // property named Length
       int length = anotherName.Length;
 
+      Console.WriteLine($"anotherName.Length = {length}");
+
       var population = 66_000_000; // 66 million in UK 
       var weight = 1.88; // in kilograms
       var price = 4.99M; // in pounds sterling

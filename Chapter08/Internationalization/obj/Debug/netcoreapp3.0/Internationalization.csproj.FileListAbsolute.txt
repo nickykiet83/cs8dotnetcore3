@@ -1,0 +1,11 @@
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/Internationalization/bin/Debug/netcoreapp3.0/Internationalization
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/Internationalization/bin/Debug/netcoreapp3.0/Internationalization.deps.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/Internationalization/bin/Debug/netcoreapp3.0/Internationalization.runtimeconfig.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/Internationalization/bin/Debug/netcoreapp3.0/Internationalization.runtimeconfig.dev.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/Internationalization/bin/Debug/netcoreapp3.0/Internationalization.dll
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/Internationalization/bin/Debug/netcoreapp3.0/Internationalization.pdb
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/Internationalization/obj/Debug/netcoreapp3.0/Internationalization.csprojAssemblyReference.cache
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/Internationalization/obj/Debug/netcoreapp3.0/Internationalization.AssemblyInfoInputs.cache
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/Internationalization/obj/Debug/netcoreapp3.0/Internationalization.AssemblyInfo.cs
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/Internationalization/obj/Debug/netcoreapp3.0/Internationalization.dll
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/Internationalization/obj/Debug/netcoreapp3.0/Internationalization.pdb

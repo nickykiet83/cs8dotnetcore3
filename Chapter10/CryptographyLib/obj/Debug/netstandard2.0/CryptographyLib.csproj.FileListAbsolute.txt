@@ -1,0 +1,8 @@
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter10/CryptographyLib/bin/Debug/netstandard2.0/CryptographyLib.deps.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter10/CryptographyLib/bin/Debug/netstandard2.0/CryptographyLib.dll
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter10/CryptographyLib/bin/Debug/netstandard2.0/CryptographyLib.pdb
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter10/CryptographyLib/obj/Debug/netstandard2.0/CryptographyLib.csprojAssemblyReference.cache
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter10/CryptographyLib/obj/Debug/netstandard2.0/CryptographyLib.AssemblyInfoInputs.cache
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter10/CryptographyLib/obj/Debug/netstandard2.0/CryptographyLib.AssemblyInfo.cs
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter10/CryptographyLib/obj/Debug/netstandard2.0/CryptographyLib.dll
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter10/CryptographyLib/obj/Debug/netstandard2.0/CryptographyLib.pdb

@@ -1,0 +1,8 @@
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter06/PacktLibrary/bin/Debug/netstandard2.1/PacktLibrary.deps.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter06/PacktLibrary/bin/Debug/netstandard2.1/PacktLibrary.dll
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter06/PacktLibrary/bin/Debug/netstandard2.1/PacktLibrary.pdb
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter06/PacktLibrary/obj/Debug/netstandard2.1/PacktLibrary.csprojAssemblyReference.cache
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter06/PacktLibrary/obj/Debug/netstandard2.1/PacktLibrary.AssemblyInfoInputs.cache
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter06/PacktLibrary/obj/Debug/netstandard2.1/PacktLibrary.AssemblyInfo.cs
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter06/PacktLibrary/obj/Debug/netstandard2.1/PacktLibrary.dll
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter06/PacktLibrary/obj/Debug/netstandard2.1/PacktLibrary.pdb

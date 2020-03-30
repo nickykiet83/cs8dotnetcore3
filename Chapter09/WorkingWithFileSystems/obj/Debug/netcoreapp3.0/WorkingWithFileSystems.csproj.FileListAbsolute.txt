@@ -1,0 +1,11 @@
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter09/WorkingWithFileSystems/bin/Debug/netcoreapp3.0/WorkingWithFileSystems
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter09/WorkingWithFileSystems/bin/Debug/netcoreapp3.0/WorkingWithFileSystems.deps.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter09/WorkingWithFileSystems/bin/Debug/netcoreapp3.0/WorkingWithFileSystems.runtimeconfig.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter09/WorkingWithFileSystems/bin/Debug/netcoreapp3.0/WorkingWithFileSystems.runtimeconfig.dev.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter09/WorkingWithFileSystems/bin/Debug/netcoreapp3.0/WorkingWithFileSystems.dll
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter09/WorkingWithFileSystems/bin/Debug/netcoreapp3.0/WorkingWithFileSystems.pdb
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter09/WorkingWithFileSystems/obj/Debug/netcoreapp3.0/WorkingWithFileSystems.csprojAssemblyReference.cache
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter09/WorkingWithFileSystems/obj/Debug/netcoreapp3.0/WorkingWithFileSystems.AssemblyInfoInputs.cache
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter09/WorkingWithFileSystems/obj/Debug/netcoreapp3.0/WorkingWithFileSystems.AssemblyInfo.cs
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter09/WorkingWithFileSystems/obj/Debug/netcoreapp3.0/WorkingWithFileSystems.dll
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter09/WorkingWithFileSystems/obj/Debug/netcoreapp3.0/WorkingWithFileSystems.pdb

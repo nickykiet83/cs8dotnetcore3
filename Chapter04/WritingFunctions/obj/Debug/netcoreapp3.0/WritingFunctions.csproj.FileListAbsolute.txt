@@ -1,0 +1,11 @@
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter04/WritingFunctions/bin/Debug/netcoreapp3.0/WritingFunctions
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter04/WritingFunctions/bin/Debug/netcoreapp3.0/WritingFunctions.deps.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter04/WritingFunctions/bin/Debug/netcoreapp3.0/WritingFunctions.runtimeconfig.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter04/WritingFunctions/bin/Debug/netcoreapp3.0/WritingFunctions.runtimeconfig.dev.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter04/WritingFunctions/bin/Debug/netcoreapp3.0/WritingFunctions.dll
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter04/WritingFunctions/bin/Debug/netcoreapp3.0/WritingFunctions.pdb
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter04/WritingFunctions/obj/Debug/netcoreapp3.0/WritingFunctions.csprojAssemblyReference.cache
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter04/WritingFunctions/obj/Debug/netcoreapp3.0/WritingFunctions.AssemblyInfoInputs.cache
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter04/WritingFunctions/obj/Debug/netcoreapp3.0/WritingFunctions.AssemblyInfo.cs
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter04/WritingFunctions/obj/Debug/netcoreapp3.0/WritingFunctions.dll
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter04/WritingFunctions/obj/Debug/netcoreapp3.0/WritingFunctions.pdb

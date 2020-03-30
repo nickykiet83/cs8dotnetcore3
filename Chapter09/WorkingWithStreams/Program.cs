@@ -160,9 +160,9 @@ namespace WorkingWithStreams
     static void Main(string[] args)
     {
       // WorkWithText();
-      // WorkWithXml();
-      WorkWithCompression();
-      WorkWithCompression(useBrotli: false);
+      WorkWithXml();
+      // WorkWithCompression();
+      // WorkWithCompression(useBrotli: false);
     }
   }
 }

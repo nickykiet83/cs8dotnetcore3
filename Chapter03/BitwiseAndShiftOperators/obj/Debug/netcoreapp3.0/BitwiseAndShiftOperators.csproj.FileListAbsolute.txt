@@ -1,0 +1,11 @@
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/BitwiseAndShiftOperators/bin/Debug/netcoreapp3.0/BitwiseAndShiftOperators
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/BitwiseAndShiftOperators/bin/Debug/netcoreapp3.0/BitwiseAndShiftOperators.deps.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/BitwiseAndShiftOperators/bin/Debug/netcoreapp3.0/BitwiseAndShiftOperators.runtimeconfig.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/BitwiseAndShiftOperators/bin/Debug/netcoreapp3.0/BitwiseAndShiftOperators.runtimeconfig.dev.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/BitwiseAndShiftOperators/bin/Debug/netcoreapp3.0/BitwiseAndShiftOperators.dll
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/BitwiseAndShiftOperators/bin/Debug/netcoreapp3.0/BitwiseAndShiftOperators.pdb
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/BitwiseAndShiftOperators/obj/Debug/netcoreapp3.0/BitwiseAndShiftOperators.csprojAssemblyReference.cache
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/BitwiseAndShiftOperators/obj/Debug/netcoreapp3.0/BitwiseAndShiftOperators.AssemblyInfoInputs.cache
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/BitwiseAndShiftOperators/obj/Debug/netcoreapp3.0/BitwiseAndShiftOperators.AssemblyInfo.cs
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/BitwiseAndShiftOperators/obj/Debug/netcoreapp3.0/BitwiseAndShiftOperators.dll
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/BitwiseAndShiftOperators/obj/Debug/netcoreapp3.0/BitwiseAndShiftOperators.pdb

@@ -1,0 +1,11 @@
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/WorkingWithReflection/bin/Debug/netcoreapp3.0/WorkingWithReflection
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/WorkingWithReflection/bin/Debug/netcoreapp3.0/WorkingWithReflection.deps.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/WorkingWithReflection/bin/Debug/netcoreapp3.0/WorkingWithReflection.runtimeconfig.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/WorkingWithReflection/bin/Debug/netcoreapp3.0/WorkingWithReflection.runtimeconfig.dev.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/WorkingWithReflection/bin/Debug/netcoreapp3.0/WorkingWithReflection.dll
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/WorkingWithReflection/bin/Debug/netcoreapp3.0/WorkingWithReflection.pdb
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/WorkingWithReflection/obj/Debug/netcoreapp3.0/WorkingWithReflection.csprojAssemblyReference.cache
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/WorkingWithReflection/obj/Debug/netcoreapp3.0/WorkingWithReflection.AssemblyInfoInputs.cache
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/WorkingWithReflection/obj/Debug/netcoreapp3.0/WorkingWithReflection.AssemblyInfo.cs
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/WorkingWithReflection/obj/Debug/netcoreapp3.0/WorkingWithReflection.dll
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/WorkingWithReflection/obj/Debug/netcoreapp3.0/WorkingWithReflection.pdb

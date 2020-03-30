@@ -1,0 +1,11 @@
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/CastingConverting/bin/Debug/netcoreapp3.0/CastingConverting
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/CastingConverting/bin/Debug/netcoreapp3.0/CastingConverting.deps.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/CastingConverting/bin/Debug/netcoreapp3.0/CastingConverting.runtimeconfig.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/CastingConverting/bin/Debug/netcoreapp3.0/CastingConverting.runtimeconfig.dev.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/CastingConverting/bin/Debug/netcoreapp3.0/CastingConverting.dll
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/CastingConverting/bin/Debug/netcoreapp3.0/CastingConverting.pdb
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/CastingConverting/obj/Debug/netcoreapp3.0/CastingConverting.csprojAssemblyReference.cache
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/CastingConverting/obj/Debug/netcoreapp3.0/CastingConverting.AssemblyInfoInputs.cache
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/CastingConverting/obj/Debug/netcoreapp3.0/CastingConverting.AssemblyInfo.cs
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/CastingConverting/obj/Debug/netcoreapp3.0/CastingConverting.dll
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/CastingConverting/obj/Debug/netcoreapp3.0/CastingConverting.pdb

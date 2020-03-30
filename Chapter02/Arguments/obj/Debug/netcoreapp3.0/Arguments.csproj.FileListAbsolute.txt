@@ -1,0 +1,11 @@
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter02/Arguments/bin/Debug/netcoreapp3.0/Arguments
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter02/Arguments/bin/Debug/netcoreapp3.0/Arguments.deps.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter02/Arguments/bin/Debug/netcoreapp3.0/Arguments.runtimeconfig.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter02/Arguments/bin/Debug/netcoreapp3.0/Arguments.runtimeconfig.dev.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter02/Arguments/bin/Debug/netcoreapp3.0/Arguments.dll
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter02/Arguments/bin/Debug/netcoreapp3.0/Arguments.pdb
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter02/Arguments/obj/Debug/netcoreapp3.0/Arguments.csprojAssemblyReference.cache
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter02/Arguments/obj/Debug/netcoreapp3.0/Arguments.AssemblyInfoInputs.cache
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter02/Arguments/obj/Debug/netcoreapp3.0/Arguments.AssemblyInfo.cs
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter02/Arguments/obj/Debug/netcoreapp3.0/Arguments.dll
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter02/Arguments/obj/Debug/netcoreapp3.0/Arguments.pdb

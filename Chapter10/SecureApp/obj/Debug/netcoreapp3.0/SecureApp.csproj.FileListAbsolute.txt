@@ -1,0 +1,14 @@
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter10/SecureApp/bin/Debug/netcoreapp3.0/SecureApp
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter10/SecureApp/bin/Debug/netcoreapp3.0/SecureApp.deps.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter10/SecureApp/bin/Debug/netcoreapp3.0/SecureApp.runtimeconfig.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter10/SecureApp/bin/Debug/netcoreapp3.0/SecureApp.runtimeconfig.dev.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter10/SecureApp/bin/Debug/netcoreapp3.0/SecureApp.dll
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter10/SecureApp/bin/Debug/netcoreapp3.0/SecureApp.pdb
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter10/SecureApp/bin/Debug/netcoreapp3.0/CryptographyLib.dll
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter10/SecureApp/bin/Debug/netcoreapp3.0/CryptographyLib.pdb
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter10/SecureApp/obj/Debug/netcoreapp3.0/SecureApp.csprojAssemblyReference.cache
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter10/SecureApp/obj/Debug/netcoreapp3.0/SecureApp.AssemblyInfoInputs.cache
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter10/SecureApp/obj/Debug/netcoreapp3.0/SecureApp.AssemblyInfo.cs
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter10/SecureApp/obj/Debug/netcoreapp3.0/SecureApp.csproj.CopyComplete
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter10/SecureApp/obj/Debug/netcoreapp3.0/SecureApp.dll
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter10/SecureApp/obj/Debug/netcoreapp3.0/SecureApp.pdb

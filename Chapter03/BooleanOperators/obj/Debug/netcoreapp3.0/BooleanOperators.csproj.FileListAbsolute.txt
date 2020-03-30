@@ -1,0 +1,11 @@
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/BooleanOperators/bin/Debug/netcoreapp3.0/BooleanOperators
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/BooleanOperators/bin/Debug/netcoreapp3.0/BooleanOperators.deps.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/BooleanOperators/bin/Debug/netcoreapp3.0/BooleanOperators.runtimeconfig.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/BooleanOperators/bin/Debug/netcoreapp3.0/BooleanOperators.runtimeconfig.dev.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/BooleanOperators/bin/Debug/netcoreapp3.0/BooleanOperators.dll
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/BooleanOperators/bin/Debug/netcoreapp3.0/BooleanOperators.pdb
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/BooleanOperators/obj/Debug/netcoreapp3.0/BooleanOperators.csprojAssemblyReference.cache
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/BooleanOperators/obj/Debug/netcoreapp3.0/BooleanOperators.AssemblyInfoInputs.cache
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/BooleanOperators/obj/Debug/netcoreapp3.0/BooleanOperators.AssemblyInfo.cs
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/BooleanOperators/obj/Debug/netcoreapp3.0/BooleanOperators.dll
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/BooleanOperators/obj/Debug/netcoreapp3.0/BooleanOperators.pdb

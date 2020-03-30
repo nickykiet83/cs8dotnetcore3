@@ -142,10 +142,10 @@ namespace WorkingWithFileSystems
 
     static void Main(string[] args)
     {
-      OutputFileSystemInfo();
+      // OutputFileSystemInfo();
       // WorkWithDrives();
       // WorkWithDirectories();
-      // WorkWithFiles();
+      WorkWithFiles();
     }
   }
 }

@@ -1,0 +1,11 @@
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/WorkingWithRanges/bin/Debug/netcoreapp3.0/WorkingWithRanges
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/WorkingWithRanges/bin/Debug/netcoreapp3.0/WorkingWithRanges.deps.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/WorkingWithRanges/bin/Debug/netcoreapp3.0/WorkingWithRanges.runtimeconfig.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/WorkingWithRanges/bin/Debug/netcoreapp3.0/WorkingWithRanges.runtimeconfig.dev.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/WorkingWithRanges/bin/Debug/netcoreapp3.0/WorkingWithRanges.dll
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/WorkingWithRanges/bin/Debug/netcoreapp3.0/WorkingWithRanges.pdb
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/WorkingWithRanges/obj/Debug/netcoreapp3.0/WorkingWithRanges.csprojAssemblyReference.cache
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/WorkingWithRanges/obj/Debug/netcoreapp3.0/WorkingWithRanges.AssemblyInfoInputs.cache
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/WorkingWithRanges/obj/Debug/netcoreapp3.0/WorkingWithRanges.AssemblyInfo.cs
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/WorkingWithRanges/obj/Debug/netcoreapp3.0/WorkingWithRanges.dll
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter08/WorkingWithRanges/obj/Debug/netcoreapp3.0/WorkingWithRanges.pdb

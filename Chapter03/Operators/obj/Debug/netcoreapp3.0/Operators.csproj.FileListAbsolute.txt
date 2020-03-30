@@ -1,0 +1,11 @@
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/Operators/bin/Debug/netcoreapp3.0/Operators
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/Operators/bin/Debug/netcoreapp3.0/Operators.deps.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/Operators/bin/Debug/netcoreapp3.0/Operators.runtimeconfig.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/Operators/bin/Debug/netcoreapp3.0/Operators.runtimeconfig.dev.json
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/Operators/bin/Debug/netcoreapp3.0/Operators.dll
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/Operators/bin/Debug/netcoreapp3.0/Operators.pdb
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/Operators/obj/Debug/netcoreapp3.0/Operators.csprojAssemblyReference.cache
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/Operators/obj/Debug/netcoreapp3.0/Operators.AssemblyInfoInputs.cache
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/Operators/obj/Debug/netcoreapp3.0/Operators.AssemblyInfo.cs
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/Operators/obj/Debug/netcoreapp3.0/Operators.dll
+/Volumes/DATA/Projects/dotnetcore/C#/cs8dotnetcor3/Chapter03/Operators/obj/Debug/netcoreapp3.0/Operators.pdb
